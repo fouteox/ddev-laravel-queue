@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This add-on allows you to start automatically a Laravel queues through the DDEV web service. See [official Reverb documentation](https://laravel.com/docs/11.x/queues) for more details.
+This add-on allows you to start automatically a Laravel queues through the DDEV web service. See [official Queue documentation](https://laravel.com/docs/11.x/queues) for more details.
 
 ## Installation
 
